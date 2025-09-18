@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: You find a mysterious glowing sword stuck in a stone when suddenly a dragon flies up and attacks you. You take the sword out the stone and slay the dragon and return to your village a hero.
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: You encounter a squirrel that challenges yout to a duel which you slay and steal its acorns and take back to the village.
 
 ## Final Checklist
 
