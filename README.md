@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: You find a mysterious glowing sword stuck in a stone when suddenly a dragon flies up and attacks you. You take the sword out the stone and slay the dragon and return to your village a hero.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
