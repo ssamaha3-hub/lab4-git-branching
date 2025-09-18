@@ -9,11 +9,11 @@ def intro():
         center_path()
     else:
         print("You stand still, unsure what to do. The forest swallows you.")
-        print("Then a massive dragon attacks you and you slay it in one hit.")
-        print("You head back to your village knowing you saved the day.")
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+     print("Then a massive dragon attacks you and you slay it in one hit.")
+        print("You head back to your village knowing you saved the day.")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
