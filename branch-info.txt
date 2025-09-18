@@ -10,14 +10,14 @@ Branches in this repo (with details):
     eadc6b2 | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:05:20Z | fixed code placement.
     4440cd3 | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:04:16Z | added more dialogue to left path
 - main
-  SHA: b06c8920f373fcd66a146e9d3243b44a5f028602
-  Commits: 5
+  SHA: fce853afec45a2fbd760ded23ad4fce0e8f48a41
+  Commits: 16
   Recent commits:
-    b06c892 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:19:11Z | Auto-update branch-info.txt
-    fb676c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:08:21Z | Auto-update branch-info.txt
-    daf5d78 | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T17:59:32Z | added a center path.
-    ef98b6b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:52:03Z | Auto-update branch-info.txt
-    55fcbde | Author: ssamaha3-hub <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T13:51:51-04:00 | Initial commit
+    fce853a | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:28:01Z | git Merge branch 'main' of https://github.com/ssamaha3-hub/lab4-git-branching
+    bf204a6 | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:27:16Z | Merge branch 'villian-path'
+    a938f42 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T18:26:46Z | Auto-update branch-info.txt
+    117911f | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:26:14Z | summarized villian path
+    cc6f4a0 | Author: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Committer: Samer Samaha <233132729+ssamaha3-hub@users.noreply.github.com> | Date: 2025-09-18T18:25:21Z | added villian path
 - villian-path
   SHA: 117911ff1385cf29b5ff6d7bb794ae9f37448b7c
   Commits: 11
