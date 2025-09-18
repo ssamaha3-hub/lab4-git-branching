@@ -8,7 +8,7 @@ def intro():
     elif choice == "center":
         center_path()
     else:
-        print("You stand still, unsure what to do. The forest swallows you.")
+        print("You stand alone, unsure what to do. The forest swallows you.")
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
